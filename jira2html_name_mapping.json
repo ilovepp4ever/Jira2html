@@ -1,0 +1,12 @@
+[
+    {
+        "nick_name": "Jhon",
+        "long_name": "John Smith",
+        "dir_name": "~johnsmith"
+    },
+   {
+        "nick_name": "Mary",
+        "long_name": "Mary Johnson",
+        "dir_name": "~maryjhonson"
+    }
+]
